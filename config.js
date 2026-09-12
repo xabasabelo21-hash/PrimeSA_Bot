@@ -11,8 +11,8 @@ module.exports = {
     debugAI: false,
 
     // Bot Owner Configuration
-    ownerNumber: ['27123456789'], // Add your number without + or spaces
-    ownerName: ['Pro Sahil'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['27658776362'], // Add your number without + or spaces
+    ownerName: ['Solution'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
     botName: 'PrimeSA_Bot',
